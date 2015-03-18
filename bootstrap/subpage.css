@@ -1,0 +1,19 @@
+body {
+  padding-top: 30px;
+}
+
+.starter-template {
+  padding: 20px 15px;
+  text-align: center;
+}
+
+/* Reset the container */
+.container {
+    width: 80ch;
+    max-width: none !important;
+}
+
+.publist dd {
+    margin-bottom: 1em;
+}
+
